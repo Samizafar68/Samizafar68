@@ -62,7 +62,11 @@ I am a **Computer Science graduate** from **FAST-NUCES**, specializing in:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samizafar68&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samizafar68&show_icons=true&locale=en&layout=compact" alt="samizafar68" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samizafar68&show_icons=true&locale=en" alt="samizafar68" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samizafar68&" alt="samizafar68" /></p>
 ---
 
 ### ⚡ Fun Fact
