@@ -25,12 +25,13 @@ I am a **Software Engineer, graduate** from **FAST-NUCES**, specializing in:
 - 🌱 Learning **Advanced ML, Kubernetes, Cloud DevOps, and System Design**
 - 👯 Open to collaborating on **AI, ML, NLP, MERN Stack, and DevOps projects**
 - 🤝 Seeking help with **AI/ML research, NLP optimizations, and DevOps scaling**
-- 📝 I write on **[Medium](https://medium.com/@sami5292710)**
+- 📝 I write on **[Medium](https://medium.com/@sami68)**
 
 ---
 
 ### 📂 My Work
-🎯 **GitHub Repositories:** [View Here](https://github.com/samizafar68?tab=repositories)  
+🎯 **GitHub Repositories:** [View Here](https://github.com/samizafar68?tab=repositories) 
+🔗 **LinkedIn Profile:** [Connect Here](https://www.linkedin.com/in/samiullah68)
 📄 **My Resume:** [Check It Out](https://drive.google.com/drive/folders/11cLgQJ_MmcQzW3UAJHwZu6BBKS8AAJNT?usp=drive_link)  
 📢 **Ask Me About:** MERN Stack, AI/ML, NLP, DevOps, SQL, C++, C#, Bash 
 
