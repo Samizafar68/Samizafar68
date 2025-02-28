@@ -6,12 +6,12 @@
 ---
 
 ### 🚀 About Me
-I am a **Computer Science graduate** from **FAST-NUCES**, specializing in:
+I am a **Software Engineer, graduate** from **FAST-NUCES**, specializing in:
 - **MERN Stack Development** 🏗️
 - **AI, Machine Learning (ML), NLP, and Generative AI** 🤖
 - **Database Management (SQL, Oracle, MySQL)** 🗄️
-- **DevOps: CI/CD, Automation, and Cloud Deployment** ☁️
-- **Programming in C++, C#, and Bash Scripting** 🔧
+- **DevOps: CI/CD, Automation, Kubernetes, Terraform, Skaffold, Kustomize and Cloud Deployment** ☁️
+- **Programming in C++, C#, python, javascript and Bash Scripting** 🔧
 - **Building Scalable and Efficient Software Solutions** 🚀
 
 📌 *Passionate about innovation and continuously exploring emerging technologies!*
@@ -29,8 +29,8 @@ I am a **Computer Science graduate** from **FAST-NUCES**, specializing in:
 
 ### 📂 My Work
 🎯 **GitHub Repositories:** [View Here](https://github.com/samizafar68?tab=repositories)  
-📄 **My Resume:** [Check It Out](https://drive.google.com/drive/folders/11cLgQJ_MmcQzW3UAJHwZu6BBKS8AAJNT?usp=drive_link)
-📢 **Ask Me About:** MERN Stack, AI/ML, NLP, DevOps, SQL, C++, C#, Bash
+📄 **My Resume:** [Check It Out](https://drive.google.com/drive/folders/11cLgQJ_MmcQzW3UAJHwZu6BBKS8AAJNT?usp=drive_link)  
+📢 **Ask Me About:** MERN Stack, AI/ML, NLP, DevOps, SQL, C++, C#, Bash 
 
 ---
 
