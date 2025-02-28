@@ -1,50 +1,79 @@
 <h1 align="center">Hi 👋, I'm Samiullah</h1>
-<h3 align="center">A passionate Computer Science graduate specializing in AI, ML, NLP, Generative AI, and Full-Stack Development 🚀</h3>
+<h3 align="center">🚀 Computer Science Graduate | MERN Stack | AI & ML | NLP | Generative AI | DevOps 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samizafar68&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samizafar68&margin-w=5&row=1" alt="GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=samizafar68&label=Profile%20views&color=0e75b6&style=flat" alt="samizafar68" />
 </p>
 
-### 🚀 About Me
-- 🔭 **Currently Working On:** AI, ML, NLP, Generative AI, MERN Stack, and DevOps solutions.  
-- 🌱 **Learning:** Advanced ML, Generative AI, Kubernetes, Cloud DevOps, and System Design.  
-- 👯 **Open to Collaboration:** AI/ML projects, NLP apps, Generative AI, Full-Stack Dev, and DevOps automation.  
-- 📝 **Blogs:** [Medium](https://medium.com/@sami5292710) | [GitHub Repos](https://github.com/samizafar68?tab=repositories)  
-- 💬 **Ask Me About:** AI, ML, MERN, NLP, Generative AI, DevOps, SQL, C++, C#, and Bash.  
-- 📫 **Contact:** 📧 sami5292710@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/samiullah68)  
-- 📄 **Resume:** [View Here](https://drive.google.com/drive/folders/11cLgQJ_MmcQzW3UAJHwZu6BBKS8AAJNT?usp=drive_link)  
-- ⚡ **Fun Fact:** I started coding to build games, now I debug more than I play! 🎮💻  
+🌟 **About Me** 🌟  
+🎓 I am a **Computer Science graduate from FAST-NUCES**, specializing in **MERN Stack, AI, Machine Learning (ML), Natural Language Processing (NLP), and Generative AI**.  
+💻 I have a strong foundation in **SQL, Oracle, MySQL, and database management**, alongside proficiency in **C++, C#, and Bash scripting**.  
+🚀 With hands-on experience in **DevOps, CI/CD automation, and cloud deployment**, I am passionate about building **scalable, efficient, and impactful software solutions**.  
 
 ---
 
-### 🛠️ Tech Stack
-#### **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+### 🔥 **What I'm Working On**
+- AI, **Machine Learning, NLP**, and **Generative AI** innovations.  
+- Building **full-stack applications** with **MERN Stack**.  
+- Implementing **DevOps automation, CI/CD**, and **cloud deployments**.  
 
-#### **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/-CI/CD-FF6C37?style=flat&logo=gitlab&logoColor=white)  
+### 📚 **Currently Learning**
+- **Advanced Machine Learning & Generative AI**  
+- **Kubernetes & Cloud DevOps**  
+- **System Design & Scalable Architectures**  
+
+### 🤝 **Let's Collaborate**
+- **AI/ML & NLP projects**
+- **MERN Stack Development**
+- **Generative AI & DevOps automation**  
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/samiullah68"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/samizafar68"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://medium.com/@sami5292710"><img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white"></a>
-  <a href="mailto:sami5292710@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"></a>
+📂 **My Work & Contributions**  
+- 👨‍💻 All projects → [GitHub Repositories](https://github.com/samizafar68?tab=repositories)  
+- 📝 Blog posts → [Medium Articles](https://medium.com/@sami5292710)  
+- 📄 My Resume → [View Here](https://drive.google.com/drive/folders/11cLgQJ_MmcQzW3UAJHwZu6BBKS8AAJNT?usp=drive_link)  
+
+---
+
+### 📬 **Get in Touch**
+📧 **Email:** sami5292710@gmail.com  
+🔗 **LinkedIn:** [Samiullah](https://www.linkedin.com/in/samiullah68)  
+🐦 **Twitter:** [@sami_0688](https://twitter.com/sami_0688)  
+
+---
+
+⚡ **Fun Fact:** *I started coding thinking I’d build games, but now I debug more than I play! 🎮💻*
+
+---
+
+### 🚀 **Languages & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+---
+
+🎯 **Connect with me on Social Media**  
+<a href="https://linkedin.com/in/samiullah68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://dev.to/sami68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+<a href="https://instagram.com/sami_0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://medium.com/@sami68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+
+---
+
+🔥 **GitHub Stats** 🔥  
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samizafar68&theme=dracula" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
+✨ **Thanks for visiting! Let's innovate together. 🚀**
