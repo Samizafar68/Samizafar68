@@ -42,12 +42,27 @@ I am a **Software Engineer, graduate** from **FAST-NUCES**, specializing in:
 
 ### 📬 Contact Me
 <p align="left">
-<a href="https://dev.to/sami68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sami68" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samiullah68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiullah68" height="30" width="40" /></a>
-<a href="https://fb.com/samiullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiullah" height="30" width="40" /></a>
-<a href="https://instagram.com/sami_0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami_0688" height="30" width="40" /></a>
-<a href="https://medium.com/@sami68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sami68" height="30" width="40" /></a>
+  <a href="https://dev.to/sami68" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sami68" height="30" width="40" />
+  </a>  
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://linkedin.com/in/samiullah68" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiullah68" height="30" width="40" />
+  </a>  
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://fb.com/samiullah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiullah" height="30" width="40" />
+  </a>  
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://instagram.com/sami_0688" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami_0688" height="30" width="40" />
+  </a>  
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://medium.com/@sami68" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sami68" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
