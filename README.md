@@ -30,7 +30,7 @@ I am a **Computer Science graduate** from **FAST-NUCES**, specializing in:
 ### 📂 My Work
 🎯 **GitHub Repositories:** [View Here](https://github.com/samizafar68?tab=repositories)
 📄 **My Resume:** [Check It Out](https://drive.google.com/drive/folders/11cLgQJ_MmcQzW3UAJHwZu6BBKS8AAJNT?usp=drive_link)
-📢 **Ask Me About:** MERN Stack, AI/ML, NLP, DevOps, SQL, C++, C#, Bash
+ - 📢 **Ask Me About:** MERN Stack, AI/ML, NLP, DevOps, SQL, C++, C#, Bash
 
 ---
 
