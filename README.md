@@ -35,11 +35,13 @@ I am a **Computer Science graduate** from **FAST-NUCES**, specializing in:
 ---
 
 ### 📬 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sami5292710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiullah68)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sami68)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samizafar68)
+<p align="left">
+<a href="https://dev.to/sami68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sami68" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samiullah68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiullah68" height="30" width="40" /></a>
+<a href="https://fb.com/samiullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiullah" height="30" width="40" /></a>
 <a href="https://instagram.com/sami_0688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami_0688" height="30" width="40" /></a>
+<a href="https://medium.com/@sami68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sami68" height="30" width="40" /></a>
+</p>
 
 ---
 
