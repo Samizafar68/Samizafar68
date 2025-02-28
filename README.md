@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Samiullah</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&lines=Computer+Science+Graduate;MERN+Stack+Developer;AI+%7C+ML+%7C+NLP+%7C+Generative+AI;DevOps+Engineer+%7C+CI%2FCD+Specialist;Kubernetes+%7C+Terraform+%7C+Skaffold;Cloud+Automation+%7C+Scalable+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&lines=Computer+Science+Graduate;MERN+Stack+Developer;AI+%7C+ML+%7C+NLP+%7C+Generative+AI;DevOps+%7C+CI%2FCD+%7C+Cloud+Automation;Passionate+About+Scalable+Solutions"/>
 </p>
 
 
